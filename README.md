@@ -5,4 +5,4 @@
 3. Visit the [Chrome Extensions](chrome://extensions/) page in Google Chrome.
 4. Turn on Developer Mode by clicking the radio button in the upper-right.
 5. Drag the project folder onto the page.
-6. Visit [Amazon.com](https://www.amazon.com) and confirm that the font is sans serif instead of serif.
+6. Visit [Amazon.com](https://www.amazon.com) and confirm that the font is sans-serif instead of serif.
