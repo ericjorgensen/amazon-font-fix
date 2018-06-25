@@ -3,10 +3,10 @@
     "version": "1.0",
     "description": "A fix for Amazon's horrible font change.",
     "manifest_version": 2,
-    "permissions": ["tabs", "https://www.amazon.com/*"],
+    "permissions": ["tabs", "https://*.amazon.com/*"],
     "content_scripts": [
        {
-          "matches": ["https://www.amazon.com/*"],
+          "matches": ["https://*.amazon.com/*"],
           "css": ["styles/font_override.css"]
        }
     ]
