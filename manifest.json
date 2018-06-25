@@ -1,7 +1,7 @@
 {
     "name": "Amazon Font Fix",
     "version": "1.0",
-    "description": "A fix for Amazon's horrible font change.",
+    "description": "A fix for Amazon's recent font change.",
     "manifest_version": 2,
     "permissions": ["tabs", "https://*.amazon.com/*"],
     "content_scripts": [
